@@ -4,6 +4,6 @@ I’m currently working on [Contracts and Primitives](https://github.com/orgs/ce
 
 Follow me on [twitter](https://twitter.com/yorhodes4).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yorhodes&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yorhodes&show_icons=true&theme=dark&count_private=true)
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorhodes&theme=dark)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorhodes&theme=dark&hide=css)
