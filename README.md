@@ -4,4 +4,4 @@ I’m currently working on [Contracts and Primitives](https://github.com/orgs/ce
 
 Follow me on [twitter](https://twitter.com/yorhodes4).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yorhodes&show_icons=true&theme=dark&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yorhodes&show_icons=true&theme=default&count_private=true)
