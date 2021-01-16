@@ -6,4 +6,4 @@ Follow me on [twitter](https://twitter.com/yorhodes4).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yorhodes&show_icons=true&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorhodes&theme=dark&hide=css,shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorhodes&theme=dark&hide=css,shell&langs_count=5&layout=compact)
