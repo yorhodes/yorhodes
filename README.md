@@ -4,7 +4,7 @@ Check out my [dotfiles](https://github.com/yorhodes/dotfiles).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yorhodes&show_icons=true&theme=default&count_private=true)
 
-I’m currently working on [Contracts and Primitives](https://github.com/orgs/celo-org/teams/cap) at [cLabs](https://clabs.co/) for [Celo](https://celo.org).
+I’m currently working at [cLabs](https://clabs.co/) on [Core Contracts](https://github.com/orgs/celo-org/teams/cap) for [Celo](https://celo.org).
 
 Follow me on ...
 
