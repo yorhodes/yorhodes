@@ -10,4 +10,4 @@ Follow me on ...
 
 [spotify](https://open.spotify.com/user/1244236872) 
 [twitter](https://twitter.com/yorhodes4)
-[lichess](https://lichess.org/@/yorhodes4)
+[chess](https://www.chess.com/member/yorhodes)
