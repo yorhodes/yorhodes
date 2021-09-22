@@ -6,4 +6,4 @@ Check out my [dotfiles](https://github.com/yorhodes/dotfiles).
 
 I’m currently working at [cLabs](https://clabs.co/) on [Contracts](https://github.com/celo-org/celo-monorepo/tree/master/packages/protocol/contracts) for [Celo](https://celo.org).
 
-[linktr.ee/yorhodes](linktr.ee/yorhodes)
+[linktr.ee/yorhodes](https://linktr.ee/yorhodes)
