@@ -6,4 +6,6 @@ Check out my [dotfiles](https://github.com/yorhodes/dotfiles).
 
 I’m currently working at [Gauntlet](https://gauntlet.network/) on Smart Contracts.
 
-[linktr.ee/yorhodes](https://linktr.ee/yorhodes)
+Learn more about me on my [website](https://www.yorke.dev).
+
+[![yorhodes wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yorhodes)](https://wakatime.com/@yorhodes)
