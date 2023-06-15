@@ -6,7 +6,7 @@
 
 I am currently working on [**Hyperlane**](https://hyperlane.xyz), enabling crosschain composability on <img src="https://user-images.githubusercontent.com/3020995/154387074-1d85c334-a33e-4bfd-bcc4-1cba921ea40e.svg" width=1.4%>**Ethereum** and beyond.
 
-I like **Typescript**, specialize in **Solidity**, and am an aspiring **Rust**acean.
+I specialize in **Solidity** and write production **Typescript** and **Rust**.
 
 Learn more about me on my **[website](https://www.yorke.dev)**.
 
