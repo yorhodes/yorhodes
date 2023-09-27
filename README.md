@@ -2,7 +2,7 @@
 
 <!-- <a href="https://wakatime.com/@yorhodes"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=yorhodes&time_range=last_year&theme=graywhite" align="right" width="30%" height="30%"/></a> -->
 
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px" height="18px">, I'm *yo-rhodes* but you can call me Yorke.
+### it's yo-rhodes
 
 I am currently working on [**Hyperlane**](https://hyperlane.xyz), enabling crosschain composability on <img src="https://user-images.githubusercontent.com/3020995/154387074-1d85c334-a33e-4bfd-bcc4-1cba921ea40e.svg" width=1.4%>**Ethereum** and beyond.
 
